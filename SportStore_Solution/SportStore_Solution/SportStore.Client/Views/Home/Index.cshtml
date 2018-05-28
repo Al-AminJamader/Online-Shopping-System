@@ -1,0 +1,121 @@
+﻿@{
+    ViewBag.Title = "TechShop";
+}
+
+<ng-view />
+
+@section scripts{
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/angular-route.js"></script>
+
+    <script>
+        angular.module("sportStore", ['ngRoute'])
+
+       .config(function ($locationProvider) {
+           $locationProvider.hashPrefix('');
+       })
+       .config(function ($routeProvider) {
+           $routeProvider.when("/", {
+               templateUrl: "/app/views/home.html"
+           });
+           $routeProvider.when("/checkout", {
+               templateUrl: "/app/views/checkoutSummary.html"
+           });
+           $routeProvider.when("/products", {
+               templateUrl: "/app/views/productList.html"
+           });
+           $routeProvider.when("/thanks", {
+               templateUrl: "/app/views/thankyou.html"
+           });
+           $routeProvider.when("/placeorder", {
+               templateUrl: "/app/views/placeorder.html"
+           });
+           $routeProvider.when("/about", {
+               templateUrl: "/app/views/about.html"
+           });
+           $routeProvider.when("/contact", {
+               templateUrl: "/app/views/contact.html"
+           });
+           $routeProvider.when("/pp", {
+               templateUrl: "/app/views/pp.html"
+           });
+           $routeProvider.when("/FAQ", {
+               templateUrl: "/app/views/FAQ.html"
+           });
+           $routeProvider.when("/TC", {
+               templateUrl: "/app/views/TC.html"
+           });
+           $routeProvider.when("/offers", {
+               templateUrl: "/app/views/offers.html"
+           });
+           $routeProvider.when("/creditCard", {
+               templateUrl: "/app/views/creditCard.html"
+           });
+           $routeProvider.otherwise({
+               templateUrl: "/app/views/home.html"
+           });
+       })
+        .controller("storeCtrl", function ($scope, $filter, cart, remoteCallSvc) {
+            $scope.model = {};
+            $scope.transactId = "";
+            $scope.shippingDetail = null;
+            $scope.orderCreated = null;
+            $scope.rate = 79.0;
+            var selectedCategory = null;
+            $scope.selectedPage = 1;
+            $scope.pageSize = 3;
+
+            $scope.selectCategory = function (product) {
+                selectedCategory = product.Category;
+                $scope.selectedPage = 1;
+                //console.log(product.Category);
+                //$scope.$emit("categoryChanged", { selectedCategory: selectedCategory });
+            }
+            $scope.selectPage = function (newPage) {
+                $scope.selectedPage = newPage;
+                console.log(newPage);
+                console.log($scope.selectedPage);
+            }
+            $scope.categoryFilterFn = function (product) {
+                return selectedCategory == null || selectedCategory == product.Category;
+            }
+            $scope.getCategoryClass = function (category) {
+                return selectedCategory == category ? "active" : "";
+            }
+
+            $scope.getPageClass = function (page) {
+
+                return $scope.selectedPage == page ? "active" : "";
+            }
+            $scope.booleanValue = true;
+            $scope.quantity = null;
+
+            $scope.addToCart = function (item) {
+                if (cart.get(item.Id) && cart.get(item.Id).qty == item.Stocklevel) {
+                    alert("No more stock");
+                    return;
+                }
+                cart.add(item.Id, item.Name, item.Price);
+
+            }
+            remoteCallSvc.get("/Home/TodaysRate", null, null)
+            .then(function (result) {
+                //console.log("Rate" + result.data);
+                $scope.rate = result.data;
+            }, function (resp) {
+
+            })
+
+        });
+
+
+    </script>
+    <script src="~/app/services/remoteCallSvc.js"></script>
+    <script src="~/app/controllers/productsCtrl.js"></script>
+    <script src="~/app/filters/filters.js"></script>
+    <script src="~/app/components/cart.js"></script>
+    <script src="~/app/widgets/widgets.js"></script>
+    <script src="~/app/controllers/cartCtrl.js"></script>
+    <script src="~/app/controllers/checkoutCtrl.js"></script>
+    <script src="~/app/controllers/summeryCtrl.js"></script>
+}

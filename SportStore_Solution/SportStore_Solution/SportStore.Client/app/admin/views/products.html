@@ -1,0 +1,184 @@
+﻿<div ng-controller="productsCtrl">
+   <div class="row">
+       <div class="col-md-12" style="margin-top:0px;">
+           <h2><b>Products Panel</b></h2>
+           <table class="table table-bordered table-striped">
+               <thead>
+                   <tr>
+                       <td colspan="4" align="left">
+                           <div class="input-group mb-2 mr-sm-2 mb-sm-0">
+                               <div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
+                               <input type="text" ng-model="search" class="form-control" id="inlineFormInputGroup" placeholder="Search Here....">
+                           </div>
+                       </td>
+                       <td colspan="3" align="right"><button class="btn btn-primary btn-sm" title="Create New" ng-click="addNew()"><span class="glyphicon glyphicon-plus"></span></button></td>
+                   </tr>
+                   <tr>
+                       <th>Product name</th>
+                       <th>Picture</th>
+                       <th>Product Category</th>
+                       <th>Product Price</th>
+                       <th>Description</th>
+                       <th>Stocklevel</th>
+                       <th>Action</th>
+                   </tr>
+               </thead>
+               <tbody>
+                   <tr ng-repeat="product in model.products|orderBy:'Category'| range:selectedPage:pageSize|filter:search">
+                       <td>{{product.Name}}</td>
+                       <td><img ng-src="{{product.Picture}}" class="img-rounded img-thumbnail" width="40" /></td>
+                       <td>{{product.Category}}</td>
+                       <td style="text-align:right">{{product.Price|currency}}</td>
+                       <td>{{product.BriefDescription}}</td>
+                       <td>{{product.Stocklevel}}</td>
+
+                       <td>
+                           <button class="btn btn-default btn-sm" ng-click="editProduct(product)"><span class="glyphicon glyphicon-pencil"></span></button>
+                           <button class="btn btn-danger btn-sm" ng-click="confirmDelProduct(product)"><span class="glyphicon glyphicon-trash"></span></button>
+                       </td>
+                   </tr>
+               </tbody>
+           </table>
+           <nav class="text-right">
+               <ul class="pagination pagination-sm">
+                   <li ng-repeat="product in model.products|pageCount:pageSize" ng-class="getPageClass($index + 1)"><a ng-click="selectPage($index + 1)" href="">{{$index+1}}</a></li>
+               </ul>
+           </nav>
+       </div>
+
+   </div>
+    <!--Modal-->
+    <div class="modal fade" tabindex="-1" role="dialog" id="confirmDialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-danger">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Confirm??</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure to delete the item?</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-danger" ng-click="delProduct()">Ok</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+
+                    <h4 class="modal-title">Edit Product</h4>
+
+                </div>
+                <div class="modal-body">
+                    <form name="editForm" novalidate>
+                        <div class="form-group" ng-class="{'has-error':editForm.productName.$invalid && !editForm.productName.$pristine}">
+                            <label class="control-label">Product Name</label>
+                            <input type="text" ng-model="model.currentProduct.Name" name="productName" class="form-control" required ng-maxlength="50" />
+                            <div ng-show="editForm.productName.$error.required && !editForm.productName.$pristine" class="help-block">Product Name is required!</div>
+                            <div ng-show="editForm.productName.$error.maxlength" class="help-block">Product Name too long!</div>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':editForm.productCategory.$invalid && !editForm.productCategory.$pristine}">
+                            <label class="control-label">
+                                Product Category
+                            </label>
+                            <input type="text" ng-model="model.currentProduct.Category" name="productCategory" maxlength="50" required class="form-control" />
+                            <div ng-show="editForm.productCategory.$error.required && !editForm.productCategory.$pristine" class="help-block">Product Category is required!</div>
+                            <div ng-show="editForm.productCategory.$error.maxlength" class="help-block">Product Category too long!</div>
+                        </div>
+                        
+                        <div class="form-group" ng-class="{'has-error':editForm.productCategory.$invalid && !editForm.productPrice.$pristine}">
+                            <label class="control-label">Product Price</label>
+                            <input type="text" ng-model="model.currentProduct.Price" name="productPrice" class="form-control" min="1" required />
+                            <div ng-show="editForm.productPrice.$error.required && !editForm.productPrice.$pristine" class="help-block">Product Price is required!</div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Product Picture</label>
+                            <button type="button" class="btn btn-default" ng-click="editPictureClick()" >Change Image</button>
+                            <img id="newProductPrictrue" src="{{model.currentProduct.Picture}}" width="50" class="img-thumbnail"  />
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':editForm.Description.$invalid && !editForm.Description.$pristine}">
+                            <label class="control-label">Product Description</label>
+                            <input type="text" name="Description" ng-model="model.currentProduct.Description" class="form-control" maxlength="250" required/>
+                            <div ng-show="editForm.Description.$error.required && !editForm.Description.$pristine" class="help-block">Brief Description is required!</div>
+                            <div ng-show="editForm.Description.$error.maxlength" class="help-block">Description too long!</div>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':editForm.Stocklevel.$invalid && !editForm.Stocklevel.$pristine}">
+                            <label class="control-label">Stocklevel</label>
+                            <input type="text" name="stocklevel" ng-model="model.currentProduct.Stocklevel" class="form-control" required />
+                            <div ng-show="editForm.Stocklevel.$error.required && !editForm.Stocklevel.$pristine" class="help-block">Stock is required!</div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" ng-click="cancelEditProduct()" form="editForm">Cancel</button>
+                    <button type="submit" form="editForm" class="btn btn-primary" ng-disabled="editForm.$invalid" ng-click="updateProduct()">Save changes</button>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+   <!--Insert Modal-->
+    <div class="modal fade" id="insertModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+
+                    <h4 class="modal-title">Add New Product</h4>
+
+                </div>
+                <div class="modal-body">
+                    <form name="insertForm" novalidate>
+                        <div class="form-group" ng-class="{'has-error':insertForm.productName.$invalid && !insertForm.productName.$pristine}">
+                            <label class="control-label">Product Name</label>
+                            <input type="text" ng-model="model.currentProduct.Name" name="productName" class="form-control" required ng-maxlength="50" />
+                            <div ng-show="insertForm.productName.$error.required && !insertForm.productName.$pristine" class="help-block">Product Name is required!</div>
+                            <div ng-show="insertForm.productName.$error.maxlength" class="help-block">Product Name too long!</div>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':insertForm.productCategory.$invalid && !insertForm.productCategory.$pristine}">
+                            <label class="control-label">
+                                Product Category
+                            </label>
+                            <input type="text" ng-model="model.currentProduct.Category" name="productCategory" maxlength="50" class="form-control" required/>
+                            <div ng-show="insertForm.productCategory.$error.required && !insertForm.productCategory.$pristine" class="help-block">Product Category is required!</div>
+                            <div ng-show="insertForm.productCategory.$error.maxlength" class="help-block">Product Category too long!</div>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':insertForm.productCategory.$invalid && !insertForm.productPrice.$pristine}">
+                            <label class="control-label">Product Price</label>
+                            <input type="text" ng-model="model.currentProduct.Price" name="productPrice" class="form-control" min="1"  required />
+                            <div ng-show="insertForm.productPrice.$error.required && !insertForm.productPrice.$pristine" class="help-block">Product Price is more than 0 required!</div>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':insertForm.Description.$invalid && !insertForm.Description.$pristine}">
+                            <label class="control-label">Product Description</label>
+                            <input type="text" name="Description" ng-model="model.currentProduct.Description" class="form-control" maxlength="250" required/>
+                            <div ng-show="insertForm.Description.$error.required && !insertForm.Description.$pristine" class="help-block">Brief Description is required!</div>
+                            <div ng-show="insertForm.Description.$error.maxlength" class="help-block">Description too long!</div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="control-label">Product Picture</label>
+                            <button type="button" class="btn btn-default" ng-click="newProductPictureClick()">Select Image</button>
+                            <img id="newProductPrictrue" ng-show="model.currentProduct.Picture" width="50" class="img-thumbnail"/>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':insertForm.Stocklevel.$invalid && !insertForm.Stocklevel.$pristine}">
+                            <label class="control-label">Stocklevel</label>
+                            <input type="number" ng-model="model.currentProduct.Stocklevel" name="Stocklevel" class="form-control" required />
+                            <div ng-show="insertForm.Stocklevel.$error.required && !insertForm.Stocklevel.$pristine" class="help-block">Stocklevel is required!</div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal" form="insertForm">Cancel</button>
+                    <button type="submit" form="insertForm" class="btn btn-primary" ng-disabled="insertForm.$invalid" ng-click="saveProduct()">Save</button>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+   
+</div>

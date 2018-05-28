@@ -1,0 +1,1144 @@
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+D:\ESAD_30A\M7\Class_34\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_8\Desktop\New\Class_34_last\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+D:\New\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+D:\New\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+D:\New\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_10\Desktop\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+D:\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+D:\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+D:\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\11\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\12\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\12.1\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_10\Desktop\Project_OnlineShop\Our Project_v2\Our Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Sohel Rana\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\Book of sohel\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_15\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+D:\.NET Course\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\Online Shop_Round30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Online Shop_Round_FInal\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\SportStore\Online Shop_Round_Final\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\domai\Desktop\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_11\Desktop\New folder (2)\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Mahmudul\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Lab2_9\Desktop\Mahmudul\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\MAHMUDUL HASAN\Desktop\Online_Shop_R-30\Online Shop_Round30\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+F:\PreviousFolders\Az\Round_30_SportsStore\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Faisal\Desktop\New folder\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+G:\Final Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+G:\Final Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+I:\Final Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+I:\Final Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+I:\Final Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+G:\Final Project\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Round 34\Desktop\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\Faisal\Desktop\Final Project\OSS\SportStore_Solution\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll.config
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\SportStore.Client.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\SportStore.Client.pdb
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\WebGrease.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Helpers.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Mvc.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Optimization.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Razor.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Antlr3.Runtime.pdb
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\Newtonsoft.Json.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\bin\System.Web.Http.WebHost.xml
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.csprojResolveAssemblyReference.cache
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.dll
+C:\Users\jamad\Desktop\SportStore_Solution\SportStore_Solution\SportStore.Client\obj\Debug\SportStore.Client.pdb

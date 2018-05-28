@@ -1,0 +1,364 @@
+﻿
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#mi-slider").catslider();
+    })
+</script>
+
+
+<div class="container" ng-controller="productsCtrl">
+    <div class="row">
+        <div class="col-md-9">
+            <div class="well well-lg offer-box text-center">
+                Today's Offer : &nbsp; <span class="glyphicon glyphicon-cog"></span>&nbsp;40 % off  on purchase of $ 2,000 and above till 24 dec !
+            </div>
+            <div class="main box-border">
+                <div id="mi-slider" class="mi-slider">
+                    <ul>
+
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/a1.jpg" alt="img01"><h4>T200 HeadPhone</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/a2.jpg" alt="img02"><h4>PNY Pendrive</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/a3.jpg" alt="Hard Disk Image" />
+                                <h4>Portable hard Disk</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/a4.jpg" alt="img04"><h4>TP-LINK Router</h4>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/d1.jpg" alt="img05"><h4>Dell Laptop</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/d2.jpg" alt="img06"><h4>Acer Desktop</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/d3.jpeg" alt="img07"><h4>HP Laptop</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/d4.jpg" alt="img08"><h4>Gaming PC</h4>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/p1.jpg" alt="img09"><h4>IPhone X</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/p2.jpg" alt="img10"><h4>Samsung S6</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/p3.jpg" alt="img11"><h4>Sony Xperia</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/p4.jpg" alt="" /><h4>Nokia 9</h4>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/t1.jpg" alt="img12"><h4>IPad</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/t2.jpg" alt="img13"><h4>Samsung Tab</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/t3.jpg" alt="img14"><h4>Nokia Tab</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#/products">
+                                <img src="../../img/slider/t4.jpg" alt="img15"><h4>MI NotePad</h4>
+                            </a>
+                        </li>
+                    </ul>
+                    <nav>
+                        <a href="#/">Accessories</a>
+                        <a href="#/">Pc&nbsp;Laptop</a>
+                        <a href="#/">Phones</a>
+                        <a href="#/">Tablet</a>
+                    </nav>
+                </div>
+
+            </div>
+            <br />
+        </div>
+        <!--offer aria-->
+        <div class="col-md-3 text-center">
+            <div class=" col-md-12 col-sm-6 col-xs-6">
+                <div class="offer-text">
+                    30% off here
+                </div>
+                <div class="thumbnail product-box">
+                    <img src="../../Image/offer/6.jpg" alt="" />
+                    <div class="caption">
+                        <h4><a href="#/offers">Walton laptop R1</a></h4>
+                        <p><marquee direction="left" scrolldelay="10" onmouseover="stop()" onmouseout="start()">Upcoming Promotion</marquee></p>
+                        <!--<p><a href="#"> </a></p>-->
+                    </div>
+                </div>
+            </div>
+            <div class=" col-md-12 col-sm-6 col-xs-6">
+                <div class="offer-text2">
+                    30% off here
+                </div>
+                <div class="thumbnail product-box">
+                    <img src="../../Image/offer/1.jpeg" alt="" />
+                    <div class="caption">
+                        <h4><a href="#/offers">SunkDisk Pen Dirve </a></h4>
+                        <p><marquee direction="right" scrolldelay="10" onmouseover="stop()" onmouseout="start()">On Going Promotion</marquee></p>
+                        <!--<p><a href="#"></a></p>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.col -->
+    </div>
+
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="container">
+                <h1 style="text-align: center; color: #ff0000">New Arrival</h1>
+
+
+                <div class="row text-center">
+
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[1].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[1].Picture}}" />
+
+                            <span>{{model.products[1].Name}}</span>&nbsp;$<span>{{model.products[1].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[1])" ng-disabled="model.products[1].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[3].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" ng-src="{{model.products[3].Picture}}"  />
+
+                            <span>{{model.products[3].Name}}</span>&nbsp;$<span>{{model.products[3].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[3])" ng-disabled="model.products[3].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[10].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[10].Picture}}"  />
+
+                            <span>{{model.products[10].Name}}</span>&nbsp;$<span>{{model.products[10].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[10])" ng-disabled="model.products[10].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+                            <p><strong>{{model.products[16].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[16].Picture}}"  />
+
+                            <span>{{model.products[16].Name}}</span>&nbsp;$<span>{{model.products[16].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[16])" ng-disabled="model.products[16].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <div class="row text-center">
+
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[4].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[4].Picture}}" />
+
+                            <span>{{model.products[4].Name}}</span>&nbsp;$<span>{{model.products[4].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[4])" ng-disabled="model.products[4].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[20].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[20].Picture}}" />
+
+                            <span>{{model.products[20].Name}}</span>&nbsp;$<span>{{model.products[20].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[20])" ng-disabled="model.products[20].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[39].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[39].Picture}}" />
+
+                            <span>{{model.products[39].Name}}</span>&nbsp;$<span>{{model.products[39].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[39])" ng-disabled="model.products[39].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[37].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[37].Picture}}" />
+
+                            <span>{{model.products[37].Name}}</span>&nbsp;$<span>{{model.products[37].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[37])" ng-disabled="model.products[37].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <br />
+                <div class="row text-center">
+
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[35].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[35].Picture}} " />
+
+                            <span>{{model.products[35].Name}}</span>&nbsp;$<span>{{model.products[35].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[35])" ng-disabled="model.products[35].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[41].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[41].Picture}}" />
+
+                            <span>{{model.products[41].Name}}</span>&nbsp;$<span>{{model.products[41].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[41])" ng-disabled="model.products[41].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[19].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[19].Picture}} " />
+
+                            <span>{{model.products[19].Name}}</span>&nbsp;$<span>{{model.products[19].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[19])" ng-disabled="model.products[19].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail ">
+
+                            <p><strong>{{model.products[33].Category}}</strong></p>
+
+                            <img class="thumbnail img-rounded" src="{{model.products[33].Picture}} " />
+
+                            <span>{{model.products[33].Name}}</span>&nbsp;$<span>{{model.products[33].Price}}</span>
+
+                            <button class="btn btn-primary" ng-click="addToCart(model.products[33])" ng-disabled="model.products[33].Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> Add to cart</button>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <br />
+
+
+
+                <div class="row text-center">
+
+                    <div class="col-sm-3">
+                        <div class="thumbnail " style="background-color:#518cb4;">
+
+                            <p><strong>Frequently Asked Question</strong></p>
+                            <a href="#/FAQ"><button class="btn">KNOW MORE&nbsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></button></a>
+
+
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail " style="background-color:#518cb4">
+
+
+                            <p><strong>Privacy & Policy</strong></p>
+                            <a href="#/pp"><button class="btn">READ MORE&nbsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></button></a>
+
+
+
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail " style="background-color:#518cb4">
+
+                            <p><strong>Terms & Conditions</strong></p>
+                            <a href="#/TC"><button class="btn">FIND MORE&nbsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></button></a>
+
+
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="thumbnail " style="background-color:#518cb4">
+                            <p><strong>Offers Available</strong></p>
+                            <a href="#/offers"><button class="btn">KNOW MORE&nbsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></button></a>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

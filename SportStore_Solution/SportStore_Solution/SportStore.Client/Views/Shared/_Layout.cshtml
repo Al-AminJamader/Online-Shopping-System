@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<html ng-app="sportStore">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -TechShop Online Shopping Application</title>
+    <link rel="shortcut icon" href="~/Image/shopping-cart-icon.png" />
+
+    <link href="~/Content/style.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @RenderSection("styles", false)
+</head>
+ 
+<body ng-controller="storeCtrl">
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color: black; color: white; ">
+        <div class="container" style="z-index:99;">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#/index">
+                    <p><b>TechShop</b></p>
+                </a>
+
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    
+                    <li><a href="#/home">Home</a></li>
+                    <li><a href="#/products">Product</a></li>
+                    <li><a href="#/about">About</a></li>
+                    <li><a href="#/contact">Contact</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown"><strong>Support</strong><b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a><strong>Call:</strong>+88017245168</a></li>
+                            <li><a><strong>Mail:</strong>info.TechShop.com</a></li>
+                            <li class="divider"></li>
+                            <li>
+                                <a>
+                                    <strong>Visit Our Shop :</strong>
+                                    <div>
+                                        127, Mohamudpur, <br />
+                                        Dhaka, Bangladesh
+                                    </div>
+                                </a>
+                            </li>
+                            <li><a href="/admin/Index"><b>Admin</b></a></li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+                <cart-summary />
+            </div>
+        </div>
+    </div>
+    <div class="container body-content" id="renderbody">
+        @RenderBody()
+    </div>
+
+    <div class="col-md-12 footer-box" style="background-color:#a4b0b5">
+        <div class="col-md-12 download-app-box text-center" style="background-color:#4b54f5;border-radius:5%;font-family:fantasy">
+            <span class="glyphicon glyphicon-certificate" style="font-family:fantasy;"> We Accept<hr /><img src="~/Image/accept-cards .jpg" class="img-responsive"/></span>
+            
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <br />
+                <strong>Send a Quick Query </strong>
+                <hr>
+                <form>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <input type="text" class="form-control" required="required" placeholder="Name">
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <input type="text" class="form-control" required="required" placeholder="Email address">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="form-group">
+                                <textarea name="message" id="message" required="required" class="form-control" rows="3" placeholder="Message"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary">Submit Request</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4 text-center">
+                <br />
+                <strong>Our Location</strong>
+                <hr>
+                <p>
+                    127,Mohamudpur<br />
+                    Dhaka, Bangladesh<br />
+                    Call: +01772550809<br>
+                    Email: info@TechShop.com<br>
+                </p>
+            </div>
+            <div class="col-md-4 social-box text-center">
+                <br />
+                <strong>We are Social </strong>
+                <hr>
+                <a href="#"><i class="fa fa-facebook-square fa-3x "></i></a>
+                <a href="#"><i class="fa fa-twitter-square fa-3x "></i></a>
+                <a href="#"><i class="fa fa-google-plus-square fa-3x c"></i></a>
+                <a href="#"><i class="fa fa-linkedin-square fa-3x "></i></a> 
+                <p>
+                    We are Connected To These Social Site.<br />For More Information Visit us....
+                </p>
+            </div>
+        </div>
+        <footer>
+            <div class="col-md-12 end-box">
+                &copy; 2018 | &nbsp; All Rights Reserved | &nbsp; <b>www.TecShop.com </b>| &nbsp; 24x7 support | &nbsp; Email us: info@TecShop.com
+            </div>
+        </footer>
+    </div>
+    <a class="top text-center" style="background-color:black;"><span class="glyphicon glyphicon-chevron-up"></span></a>
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/bootstrap")
+            @RenderSection("scripts", required: false)
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var offset = 250;
+            scrollDuration = 300;
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > offset) {
+                    $(".top").fadeIn(500);
+                }
+                else {
+                    $(".top").fadeOut(500);
+                }
+            });
+            $(".top").click(function (event) {
+                event.preventDefault();
+                $("html,body").animate({
+                    scrollTop: 0
+                }, scrollDuration);
+            })
+        });
+    </script>
+</body>
+</html>

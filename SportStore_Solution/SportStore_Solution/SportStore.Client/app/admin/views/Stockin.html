@@ -1,0 +1,158 @@
+﻿<div ng-controller="stockinCtrl">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Stock Ins</h2>
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <td colspan="2" align="left">
+                            <div class="input-group mb-2 mr-sm-2 mb-sm-0">
+                                <div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
+                                <input type="text" ng-model="search" class="form-control" id="inlineFormInputGroup" placeholder="Search Here....">
+                            </div>
+                        </td>
+                        <td colspan="2" align="right"><button class="btn btn-primary btn-sm" title="Create New" ng-click="addNew()"><span class="glyphicon glyphicon-plus"></span></button></td>
+                    </tr>
+                    <tr>
+                        <th>Date</th>
+                        <th>Quantity</th>
+                        <th>Product</th>
+                        <th>..</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="s in model.stockins|filter:search">
+                        <td>{{s.Date|date}}</td>
+                        <td>{{s.quantity}}</td>
+                        <td>{{s.Product.Name}}</td>
+                        <td>
+                            <button class="btn btn-default btn-sm" ng-click="editstockin(s)"><span class="glyphicon glyphicon-pencil"></span></button>
+                            <button class="btn btn-danger btn-sm" ng-click="confirmDelstockin(s)"><span class="glyphicon glyphicon-trash"></span></button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <!--<nav class="text-right">
+                <ul class="pagination pagination-sm">
+                    <li ng-repeat="s in model.stockins|pageCount:pageSize" ng-class="getPageClass($index + 1)"><a ng-click="selectPage($index + 1)" href="">{{$index+1}}</a></li>
+                </ul>
+            </nav>-->
+        </div>
+    </div>
+    <!--Delete Modal-->
+    <div class="modal fade" tabindex="-1" role="dialog" id="confirmDialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-danger">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Confirm??</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure to delete the item?</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="cancel()">Cancel</button>
+                    <button type="button" class="btn btn-danger" ng-click="delProduct()">Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!--Edit Modal-->
+    
+    <div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+
+                    <h4 class="modal-title">Edit Stock</h4>
+
+                </div>
+                <div class="modal-body">
+                    <form name="editForm" novalidate>
+                        <div class="form-group" ng-class="{'has-error':editForm.date.$invalid && !editForm.date.$pristine}">
+                            <label class="control-label">Date</label>
+                            <input type="text" ng-model="model.current.Date" name="date" class="form-control" required placeholder="YYYY-MM-DD" />
+                            <div ng-show="editForm.date.$error.required && !editForm.date.$pristine" class="help-block">Date Required</div>
+
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':editForm.quantity.$invalid && !editForm.quantity.$pristine}">
+                            <label class="control-label">
+                                Quantity
+                            </label>
+                            <input type="text" ng-model="model.current.quantity" name="quantity" class="form-control" min="1" />
+                            <div ng-show="editForm.quantity.$error.required && !editForm.quantity.$pristine"  class="help-block">Quantity Required</div>
+
+                        </div>
+
+
+                        <div class="form-group">
+                            <label class="control-label">Product</label>
+                            
+                                <select class="form-control" ng-model="model.current.ProductId" ng-options="c.Id as c.Name for c in model.products" required>
+                                    <option value="" selected disabled>Select Product...</option>
+                                </select>
+                            
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal" form="editForm" ng-click="cancel()">Cancel</button>
+                    <button type="submit" form="editForm" class="btn btn-primary" ng-disabled="editForm.$invalid" ng-click="editProduct()">Save</button>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+    <!--Insert Modal-->
+
+
+    <div class="modal fade" id="insertModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+
+                    <h4 class="modal-title">Add Stock</h4>
+
+                </div>
+                <div class="modal-body">
+                    <form name="insertForm" novalidate>
+                        <div class="form-group" ng-class="{'has-error':insertForm.date.$invalid && !insertForm.date.$pristine}">
+                            <label class="control-label">Date</label>
+                            <input type="text" ng-model="model.current.Date" name="date" class="form-control" required placeholder="YYYY-MM-DD" />
+                            <div ng-show="insertForm.date.$error.required && !insertForm.date.$pristine" class="help-block">Date Required</div>
+
+                        </div>
+                        <div class="form-group" ng-class="{'has-error':insertForm.quantity.$invalid && !insertForm.quantity.$pristine}">
+                            <label class="control-label">
+                                Quantity
+                            </label>
+                            <input type="text" ng-model="model.current.quantity" name="quantity" class="form-control" min="1" ng-change="checkStockLevel()" required/>
+                            <div ng-show="insertForm.quantity.$error.required && !insertForm.quantity.$pristine" class="help-block">Quantity Required</div>
+                            
+                        </div>
+                        
+
+                        <div class="form-group">
+                            <label class="control-label">Product</label>
+                            
+                                <select class="form-control" ng-model="model.current.ProductId" ng-options="c.Id as c.Name for c in model.products" required>
+                                    <option value="" selected disabled>Select Product...</option>
+                                </select>
+                            
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal" form="insertForm" ng-click="cancel()">Cancel</button>
+                    <button type="submit" form="insertForm" class="btn btn-primary" ng-disabled="insertForm.$invalid" ng-click="saveProduct()">Save</button>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</div>

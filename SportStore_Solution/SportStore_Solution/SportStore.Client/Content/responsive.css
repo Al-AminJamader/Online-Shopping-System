@@ -1,0 +1,54 @@
+﻿@media screen and (max-width:1143px){
+    #carousel-example-generic #searchContainer h1{
+       font-size:30px;
+    }
+    div#searchContainer {
+            left: 190px;
+ }
+}
+@media screen and (max-width:1050px){
+     div#searchContainer {
+          left: 175px;
+           top: 50px;
+ }
+}
+@media screen and (max-width:1007px){
+   div#searchContainer{
+       left:100px;
+       width:800px;
+   }
+   div#searchContainer .col-md-4{
+       display:inline-block;
+   }
+}
+@media screen and (max-width:999px) {
+     div#searchContainer{
+       left:95px;
+   }
+}
+
+@media screen and (max-width:994px){
+    div#searchContainer{
+       left:130px;
+       width:700px;
+   }
+    div#index-section-one img{
+        margin-left:220px;
+    }
+}
+@media screen and (max-width:947px) {
+    div#searchContainer{
+       top:40px;
+       left:110px;
+   }
+}
+@media screen and (max-width:920px){
+    div#searchContainer{
+       top:30px;
+       left:110px;
+   }
+     div#index-section-one img{
+        vertical-align:middle;
+    }
+}
+

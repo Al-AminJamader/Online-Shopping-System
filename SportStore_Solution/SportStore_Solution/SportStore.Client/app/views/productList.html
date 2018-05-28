@@ -1,0 +1,119 @@
+﻿<style>
+   .details {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+   .product-title, .price, .sizes, .colors {
+  text-transform: UPPERCASE;
+  font-weight: bold; }
+
+.checked, .price span {
+  color: #0076ad; }
+
+.product-title, .rating, .product-description, .price, .vote, .sizes {
+  margin-bottom: 15px; }
+
+.product-title {
+  margin-top: 0; }
+
+.size {
+  margin-right: 10px; }
+  .size:first-of-type {
+    margin-left: 40px; }
+
+.color {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  height: 2em;
+  width: 2em;
+  border-radius: 2px; }
+  .color:first-of-type {
+    margin-left: 20px; }
+
+.add-to-cart, .like {
+  padding: 1.2em 1.5em;
+  border: none;
+  text-transform: UPPERCASE;
+  font-weight: bold;
+  color: #fff;
+  -webkit-transition: background .3s ease;
+          transition: background .3s ease; }
+  .add-to-cart:hover, .like:hover {
+    background: #0076ad;
+    color: #fff; }
+
+.not-available {
+  text-align: center;
+  line-height: 2em; }
+  .not-available:before {
+    font-family: fontawesome;
+    content: "\f00d";
+    color: #fff; }
+
+.orange {
+  background: #ff9f1a; }
+
+.green {
+  background: #85ad00; }
+
+.blue {
+  background: #0076ad; }
+
+.tooltip-inner {
+  padding: 1.3em; }
+</style>
+<div>
+
+    <div class="col-md-3" style="margin-top:32px;">
+        <div class="list-group">
+
+            <h3 class="list-group-item-heading" style="font-family:fantasy">Categories</h3>
+            <a href="" class="list-group-item" ng-class="getCategoryClass(product.Category)"
+               ng-repeat="product in model.products | unique: 'Category'" ng-click="selectCategory(product)">{{product.Category}}</a>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <h2 style="color: #000000 ;text-align:center;font-family:fantasy">Select Your Product From Here</h2>
+        <div ng-controller="productsCtrl">
+
+
+            <div class="row panel panel-default" ng-repeat="product in model.products | filter: categoryFilterFn | range:selectedPage:pageSize">
+                <div class="panel-body">
+                    <div class="preview col-md-3">
+                        <div class="tab-pane active" id="pic-1"><img class="thumbnail img-rounded" src="{{product.Picture}}" width="200" /></div>
+
+                    </div>
+                    <div class="col-md-9">
+                        <div class="details">
+                            <h3 class="product-title">{{product.Name}}</h3>
+                            <p class="product-description">{{product.Description}}</p>
+                            <h4 class="price">current price: <span>{{product.Price | currency}}</span></h4>
+                            <!--ng-disable-->
+                        </div>
+                        <div class="action">
+                            <button class="add-to-cart btn btn-sm btn-success" type="button" ng-click="addToCart(product)" ng-disabled="product.Stocklevel === 0"><span class="glyphicon glyphicon-shopping-cart"></span> add to cart</button>
+                            <span class="badge warning pull-right" ng-show="product.Stocklevel === 0" style="background-color:rgba(255, 0, 0, .5);">Sold out</span>
+                            <span class="badge warning pull-right" id="Outofstock" style="background-color:rgba(255, 0, 0, .5); visibility:hidden"></span>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <nav class="text-right">
+                <ul class="pagination pagination-sm">
+                    <li ng-repeat="product in model.products |filter:search| filter: categoryFilterFn|pageCount:pageSize" ng-class="getPageClass($index + 1)"><a ng-click="selectPage($index + 1)" href="">{{$index+1}}</a></li>
+                </ul>
+            </nav>
+
+        </div>
+    </div>
+</div>
+

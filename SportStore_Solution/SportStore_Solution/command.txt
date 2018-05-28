@@ -1,0 +1,15 @@
+protected override void Seed(SportStore.API.Models.ApplicationDbContext context)
+        {
+            var userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(context));
+            if (!context.Users.Any(u => u.UserName == "admin@techshop.com"))
+            {
+                var u = new ApplicationUser { UserName = "admin@techshop.com" };
+                var result = userManager.Create(u, "@techOpen123");
+            }
+        }
+
+enable-migrations -ContextTypeName SportStore.API.Models.ApplicationDbContext -MigrationsDirectory 'Migration\Token' -ProjectName 'SportStore.API'
+
+add-migration -ConfigurationTypeName SportStore.API.Migration.Token.Configuration -ProjectName 'SportStore.API' 'DbInitializer'
+
+update-database

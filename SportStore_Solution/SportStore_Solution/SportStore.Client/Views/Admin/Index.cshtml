@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "TechSop";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<ng-view />
+@section scripts {
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/angular-route.js"></script>
+    <script>
+        angular.module("sportsStoreAdmin", ['ngRoute'])
+      .config(function ($locationProvider) {
+          $locationProvider.hashPrefix('');
+      })
+      .config(function ($routeProvider) {
+          $routeProvider.when("/", {
+              templateUrl: "/app/admin/views/anonymoushome.html"
+          });
+          $routeProvider.when("/home", {
+              templateUrl: "/app/admin/views/products.html"
+          });
+          $routeProvider.when("/products", {
+              templateUrl: "/app/admin/views/products.html"
+          });
+          $routeProvider.when("/order", {
+              templateUrl: "/app/admin/views/order.html"
+          });
+          $routeProvider.when("/newusers", {
+              templateUrl: "/app/admin/views/newusers.html"
+          });
+          $routeProvider.when("/StockIn", {
+              templateUrl: "/app/admin/views/Stockin.html"
+          });
+          $routeProvider.otherwise({
+              templateUrl: "/app/admin/views/anonymoushome.html"
+          });
+      })
+    </script>
+    <script src="~/app/admin/controller/adminCtrl.js"></script>
+    <script src="~/app/admin/service/authStore.js"></script>
+    <script src="~/app/admin/service/loginSvc.js"></script>
+    <script src="~/app/admin/service/remoteCallSvc.js"></script>
+    <script src="~/app/admin/controller/productsCtrl.js"></script>
+    <script src="~/app/admin/controller/orderCtrl.js"></script>
+    <script src="~/app/admin/controller/stockinCtrl.js"></script>
+    <script src="~/app/admin/controller/userCtrl.js"></script>
+    <script src="~/app/admin/filters/filters.js"></script>
+
+
+
+}
+
+
